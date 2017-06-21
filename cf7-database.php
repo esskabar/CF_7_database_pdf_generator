@@ -32,13 +32,8 @@ require_once CF7D_PLUGIN_DIR . '/pdf/PDF_MC_Table.php';
 
 
 
-//require_once CF7D_PLUGIN_DIR  . '/dompdf/dompdf.php';
-//require_once CF7D_PLUGIN_DIR  . '/dompdf/dompdf_config.inc.php';
-
-
-
 require_once CF7D_PLUGIN_DIR . '/fpdf181/fpdf.php';
-//require_once CF7D_PLUGIN_DIR . '/notorm-master/NotORM.php';
+
 
 
 
